@@ -6,3 +6,10 @@
 
 ### Feb 06
 - xCode design, worked on background basic UI etc
+
+### Feb 09
+- Read the apple guide for app development
+    https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+
+### Feb 11
+- 
