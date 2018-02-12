@@ -4,29 +4,42 @@
 
 - Add Contributing Guidelines
 
-## Features to be Added
+## To Be Added to the App
+
+### General
+- Create connections between UI elements and view controllers.
+- Create short video with random words fading in and out to play on background.
+- Add Launch Screen with a logo. (Could be simple text)
+
+### Sign Up & Login
+- Use the link below to add sign up and login pages functional.
+    - https://developer.apple.com/documentation/accounts
 
 ### Creatives
-- Require users to categorize their to-be-submitted ideas
-- Elimination of duplicate ideas (System MERGES (adding up might cause up-vote duplicates) up-votes into the existing idea after elimination)
-- Create new categories categories 
-- Eliminate duplicate categories
-- Move categories and stuff under it
-- Up-vote
+- Add character limit to the idea text field ("What is your amazing idea?")
+- Make border for the text view element in CreativeVC. (Below is a guide to do it)
+    https://www.richardhsu.me/posts/2015/01/17/textview-border.html
+- Populate the collection view element on CreativeVC2 with categories. (feel free to add more)
+    - Game Development
+    - Networking
+    - Linux
+    - Android
+    - OS X
+    - iOS
+    - WatchOS
+    - TvOS
+    - Web Development
+    - Artificial Intelligence
+    - Virtual Reality
+    - Social Media
+    - Hardware
+    - etc
+- Create CreativeVC3.
+- Add a swipe up gesture recognizer to CreativeVC2 to connect it to CreativeVC3.
+- Require the user to input a Estimated Difficulty Rating in CreativeVC3 (Beginner - Intermediate - Advanced).
 
 ### Developers
-- Random idea generator
+- Random idea generator: Add a Picker View to pick a category (include the "Any" option) and a button to display a random idea from that category.
 - Filtering options by category and difficulty
-- Add estimated difficulty to ideas (exclude top and bottom 20% votes)
-- Request to close ideas if they already exist 
-- Up-vote?
-
-## Logistics
-
-- How do we get users to eliminate duplicate ideas/categories, move/create categories and still keep the whole database in order? 
-    - Creatives can't do anything but create "issues". Get Developers to resolve 3-5 issues before they can browse ideas. Would this make the app squishy and scare away users?
-- Find a way to eliminate user accounts, enforce control over devices (i.e ban devices instead of user accounts)(IP address maybe?)
-
-## Design
-
-- Design interface
+- Add "I've already seen a very similar idea" option. Allow developers to match their latest generated idea and an idea from their history to report it. Send a generic e-mail to duplicates@ideas.com etc
+- If developers abuse the above option, temporarily ban them.

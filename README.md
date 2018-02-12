@@ -1,22 +1,16 @@
 # Ideas
-Ideas is an IOS application for users to share their ideas and for developers to be inspired. Any user can submit ideas of their own and up-vote existing ideas if they like it. This app is a great tool for developers to see what people are seeking, and focus on developing what will actually be demanded.
+Ideas is an IOS application for users to share their ideas and for developers to be inspired. Any user can submit ideas of their own. This app is a great tool for developers to see what people are seeking, and focus on developing what will actually be demanded.
 
 ## Getting Started
 
 ### Prerequisites
+You will need a mac to run the xCode project.
 
 ### Installing
-
-## Running Tests
-
-## Deployment
-
-## Built With
+Clone this github repository to download all the project files.
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
+Please read CODE_OF_CONDUCT.md first, and then read CONTRIBUTING.md for details on how to submit proper pull requests.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details

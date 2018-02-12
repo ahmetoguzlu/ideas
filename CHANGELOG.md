@@ -10,6 +10,11 @@
 ### Feb 09
 - Read the apple guide for app development
     https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+- Read the apple documentations for user accounts
+    https://developer.apple.com/documentation/accounts
 
 ### Feb 11
-- 
+- A lot of progress on the UI.
+- Edited README.md
+- Edited TODO.md
+- Created Contributing.md
