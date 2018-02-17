@@ -13,12 +13,20 @@ class LoginVC: UIViewController {
     // MARK: Properties
     
     
+    @IBOutlet weak var headerHeightConstraint: NSLayoutConstraint!
+    //This allows for logins depending on variation in constraints
+    
+    @IBOutlet weak var viewName: UIView!
+    //This correlates to an adjusted UIView allowing for button handling
+    
+    @IBAction func viewTapped(_ sender: Any) { }
+    
+    //This function permits the file to access the tapped button and the subsequent response
     
     // Mark: Actions
     @IBAction func signUpButton(sender: UIButton) {
+//        Connected to sign up button accurately
     }
-    
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()
