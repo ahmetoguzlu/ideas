@@ -3,14 +3,13 @@ Ideas is an IOS application for users to share their ideas and for developers to
 
 ## Getting Started
 
-### Prerequisites
-You will need a mac to open the xCode project.
-
-### Installing
-Clone this github repository to download all the project files.
+### Required Software
+- xCode
+- Firebase
+- Cococapods
 
 ## Contributing
-Please read CODE_OF_CONDUCT.md first, and then read CONTRIBUTING.md for details on how to submit proper pull requests.
+Please read <a href="https://github.com/ahmetoguzlu/ideas/blob/master/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a> first, and then read <a href="https://github.com/ahmetoguzlu/ideas/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a> for details on how to submit proper pull requests.
 
 ## License
 This project is licensed under the <a href = "https://github.com/ahmetoguzlu/ideas/blob/master/LICENSE">MIT License</a>

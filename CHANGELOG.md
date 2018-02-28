@@ -18,3 +18,23 @@
 - Edited README.md
 - Edited TODO.md
 - Created Contributing.md
+
+### Feb 19
+- Started migrating everything to the latest xCode and Swift 4 from Swift 2.
+
+### Feb 20
+- Finished migrating everything.
+- Read Firebase guides about managing user accounts.
+- Started implementing signing up.
+
+### Feb 22
+- Implemted sign ups, logins and edited user permissions on firebase.
+- Read about firebase databases.
+- Connected the database to the app and prepared the app to work with it in real time.
+
+### Feb 23
+- Implemented updating the database with new user inputs (ideas).
+- Implemented retrieving data from the database to generate a random idea for the user.
+
+### Feb 27 & 28
+- Code & Repo clean-ups

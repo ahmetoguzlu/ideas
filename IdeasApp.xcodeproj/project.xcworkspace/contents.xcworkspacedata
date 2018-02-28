@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "absolute:Users/Ahmet/Desktop/IdeasApp/LoginVC.swift">
+   </FileRef>
+   <FileRef
+      location = "absolute:../IdeasApp/LoginVC.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../IdeasApp/GoogleService-Info.plist">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
